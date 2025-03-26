@@ -24,7 +24,7 @@ Here's a sample:
 - https://j-e-s-s-e.com/blog/multi-uis-for-a-daemon-and-using-grpc-to-communicate-locally-from-rust-swift
 - https://j-e-s-s-e.com/blog/a-partially-wrong-tf-idf-in-flix
 - https://j-e-s-s-e.com/blog/initial-release-of-hybrid-search-for-notes-app
-- https://j-e-s-s-e.com/blog/first-versions-of-new-linear-server-for-model-context-protocol
+- https://j-e-s-s-e.com/blog/fine-tuning-an-llm-on-my-messages-whatsapp-instagram-and-messenger
 
 ## Research
 
