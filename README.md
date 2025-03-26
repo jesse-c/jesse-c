@@ -14,7 +14,7 @@ I'm currently working as an MLOps Engineer at [Climate Policy Radar](https://www
 - https://github.com/jesse-c/notes-app-hybrid-search
 - https://rom-to-the-com/
 - https://brewfile.app/
-- https://github.com/raycast/extensions/tree/main/extensions/sabnzbd 
+- https://github.com/jesse-c/kopya
 
 ## Posts
 
