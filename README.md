@@ -6,7 +6,9 @@
 
 ## Preamble
 
-I'm currently working as an MLOps Engineer at [Climate Policy Radar](https://www.climatepolicyradar.org). Outside of work, I'm blogging about projects, research, and other things, across topics mostly about software engineering and machine learning. When I can, I contribute to open-source projects. Here's a sample:
+I'm currently working as an MLOps Engineer at [Climate Policy Radar](https://www.climatepolicyradar.org). Outside of work, I'm blogging about projects, research, and other things, across topics mostly about software engineering and machine learning. When I can, I contribute to open-source projects. You can look at my [dotfiles](https://github.com/jesse-c/dotfiles/) too!
+
+Here's a sample:
 
 ## Projects
 
